@@ -1,0 +1,13 @@
+/gxTMIRGen/*.vbproj
+/gxTMIRGen/*.vbproj.user
+/gxTMIRGen/My Project/
+/gxTMIRGen/bin/
+/gxTMIRGen/Resources/
+/gxTMIRGen/obj/
+/gxTMIRGen/*.ico
+/gxTMIRGen/*.png
+/gxTMIRGen/*.gif
+/gxTMIRGen/*.jpg
+/gxTMIRGen/*.resx
+*.sln
+*.suo
